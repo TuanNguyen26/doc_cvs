@@ -1,6 +1,7 @@
 ---
 title: 'Giấy chứng nhận'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
+id: 6
 metaDescription: 'This is the api v1 for this page'
 ---
 

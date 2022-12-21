@@ -2,6 +2,7 @@
 title: 'Báo cáo tín dụng '
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 11
 ---
 
 #### 1. Trích xuất thông tin Báo cáo tín dụng với đầu vào url của ảnh hoặc pdf

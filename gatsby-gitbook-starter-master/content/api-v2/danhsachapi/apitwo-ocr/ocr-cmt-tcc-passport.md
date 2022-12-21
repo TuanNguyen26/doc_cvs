@@ -1,6 +1,7 @@
 ---
 title: 'CMT/TCC/Passport'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
+id: 4
 metaDescription: 'This is the api v1 for this page'
 ---
 

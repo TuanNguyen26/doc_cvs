@@ -2,6 +2,7 @@
 title: 'Hóa đơn'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 7
 ---
 
 #### 1. Trích xuất thông tin Hóa đơn với đầu vào file pdf

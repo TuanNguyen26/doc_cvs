@@ -2,6 +2,7 @@
 title: 'Phân loại giấy tờ, hồ sơ bảo hiểm sức khỏe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 12
 ---
 
 #### 1. Phân loại giấy tờ hồ sơ bảo hiểm sức khỏe với đầu vào url của ảnh hoặc pdf

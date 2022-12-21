@@ -2,6 +2,7 @@
 title: 'Smart Crop'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 13
 ---
 
 #### 1. Cắt ảnh thông minh với đầu vào url ảnh

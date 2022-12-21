@@ -2,6 +2,7 @@
 title: 'Hồ sơ nhân sự'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 9
 ---
 
 #### 1. Trích xuất thông tin Hồ sơ nhân sự với đầu vào url của ảnh hoặc pdf

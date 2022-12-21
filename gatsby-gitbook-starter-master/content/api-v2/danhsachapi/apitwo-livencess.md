@@ -2,6 +2,7 @@
 title: 'Liveness Verify'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
+id: 10
 ---
 
 #### 1. Thực hiện eKYC sử dụng ảnh chụp chân dung người dùng ở 3 góc độ

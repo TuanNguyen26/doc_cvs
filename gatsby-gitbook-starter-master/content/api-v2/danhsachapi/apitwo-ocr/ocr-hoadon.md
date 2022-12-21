@@ -1,6 +1,7 @@
 ---
 title: 'Hóa đơn'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
+id: 8
 metaDescription: 'This is the api v1 for this page'
 ---
 

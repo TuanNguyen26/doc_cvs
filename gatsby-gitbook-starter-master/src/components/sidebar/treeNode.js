@@ -39,12 +39,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
       {!isCollapsed && hasChildren ? (
         <ul>
           {items.map((item, index) => (
-            <TreeNode
-              key={item.url + index.toString()}
-              setCollapsed={setCollapsed}
-              collapsed={collapsed}
-              {...item}
-            />
+            <>
+              <TreeNode key={index} setCollapsed={setCollapsed} collapsed={collapsed} {...item} />
+            </>
           ))}
         </ul>
       ) : null}

@@ -1,5 +1,6 @@
 ---
 title: 'CM/TCC/Passport'
+id: 2
 ---
 
 ### 1. Trích xuất thông tin hai mặt chứng minh thư thẻ căn cước với đầu vào url ảnh
