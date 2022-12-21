@@ -134,7 +134,7 @@ export const baseStyles = css`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #00;
+    background-color: #000;
   }
 
   .headerWrapper {
