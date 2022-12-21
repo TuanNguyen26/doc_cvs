@@ -1,15 +1,12 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
 import { StaticQuery, graphql } from 'gatsby';
-import GitHubButton from 'react-github-btn';
 import Link from './link';
 import Loadable from 'react-loadable';
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
 import { DarkModeSwitch } from './DarkModeSwitch';
-import { UlHeader, NavBarWrapper, NavBarDefault, NavBarHeader } from './HeaderStyled';
-
-const help = require('./images/help.svg');
+import { UlHeader } from './HeaderStyled';
 
 const isSearchEnabled = config.header.search && config.header.search.enabled ? true : false;
 
@@ -76,24 +73,8 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={(data) => {
-      const logoImg = require('./images/logo.svg');
-
-      const twitter = require('./images/twitter.svg');
-
-      const discordBrandsBlock = require('./images/discord-brands-block.svg');
-
-      const twitterBrandsBlock = require('./images/twitter-brands-block.svg');
-
-      const {
-        site: {
-          siteMetadata: { headerTitle, githubUrl, helpUrl, tweetText, logo, headerLinks },
-        },
-      } = data;
-
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
-
       return (
-        <NavBarWrapper>
+        <div className="navBarWrapper">
           <div className="navBarDefault">
             <div className={'navBarHeader'}>
               <Link to="/" className={'navBarBrand'}>
@@ -106,8 +87,8 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
 
               <UlHeader className={'sideBarUL'}>
                 <Link to="/">Trang chủ</Link>
-                <Link to="/apib">Api v1</Link>
-                <Link to="/apia">Api v2</Link>
+                <Link to="/api-v1">Api v1</Link>
+                <Link to="/api-v2">Api v2</Link>
               </UlHeader>
 
               <StyledBgDiv isDarkThemeActive={isDarkThemeActive}>
@@ -148,7 +129,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
               </ul>
             </div>
           </div>
-        </NavBarWrapper>
+        </div>
       );
     }}
   />

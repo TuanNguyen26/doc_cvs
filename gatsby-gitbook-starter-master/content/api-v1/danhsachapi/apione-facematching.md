@@ -6,7 +6,7 @@ metaDescription: 'This is the api v1 for this page'
 
 Matching service là hệ thống AI cho phép so sánh độ tương đồng giữa khuôn mặt có trong chứng minh nhân dân, thẻ căn cước của người chủ sở hữu với khuôn mặt được chụp trực tiếp của cùng một người đó.
 
-1. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào url ảnh
+#### 1. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào url ảnh
 
 **API**:
 
@@ -38,7 +38,7 @@ response = requests.get("https://cloud.computervision.com.vn/backend/api/v1/requ
 print(response.json())
 ```
 
-2. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào file ảnh
+#### 2. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào file ảnh
 
 **API**:
 
@@ -72,7 +72,7 @@ print(response.json())
 
 ```
 
-3. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào json
+#### 3. So khớp khuôn mặt ảnh trên CMND, CCCD và ảnh chân dung với đầu vào json
 
 **API**:
 
@@ -114,7 +114,7 @@ response = requests.post(
 print(response.json())
 ```
 
-4. So khớp hai ảnh chân dung đầu vào url ảnh
+#### 4. So khớp hai ảnh chân dung đầu vào url ảnh
 
 **API**:
 
@@ -146,7 +146,7 @@ response = requests.get("https://cloud.computervision.com.vn/backend/api/v1/requ
 print(response.json())
 ```
 
-5. So khớp hai ảnh chân dung đầu vào file ảnh
+#### 5. So khớp hai ảnh chân dung đầu vào file ảnh
 
 **API**:
 
@@ -180,7 +180,7 @@ print(response.json())
 
 ```
 
-6. So khớp hai ảnh chân dung đầu vào json
+#### 6. So khớp hai ảnh chân dung đầu vào json
 
 **API**:
 
@@ -222,7 +222,7 @@ response = requests.post(
 print(response.json())
 ```
 
-7. Kiểm tra giả mạo khuôn mặt với đầu vào là 4 file ảnh, ảnh mặt thẳng, ảnh mặt quay trái, ảnh mặt quay phải, ảnh giấy tờ tùy thân
+#### 7. Kiểm tra giả mạo khuôn mặt với đầu vào là 4 file ảnh, ảnh mặt thẳng, ảnh mặt quay trái, ảnh mặt quay phải, ảnh giấy tờ tùy thân
 
 **API**:
 
@@ -260,7 +260,7 @@ print(response.json())
 
 ```
 
-8. Kiểm tra giả mạo khuôn mặt với đầu vào là json của 4 ảnh dạng base64, ảnh mặt thẳng, ảnh mặt quay trái, ảnh mặt quay phải, ảnh giấy tờ tùy thân
+#### 8. Kiểm tra giả mạo khuôn mặt với đầu vào là json của 4 ảnh dạng base64, ảnh mặt thẳng, ảnh mặt quay trái, ảnh mặt quay phải, ảnh giấy tờ tùy thân
 
 **API**:
 
@@ -312,7 +312,7 @@ print(response.json())
 
 ```
 
-9. Thông tin trả về
+#### 9. Thông tin trả về
 
 Đối với dịch vụ so khớp khuôn mặt trong chứng minh thư, thẻ căn cước, phản hồi sẽ là một JSON với định dạng sau:
 

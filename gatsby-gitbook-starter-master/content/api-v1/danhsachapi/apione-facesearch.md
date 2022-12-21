@@ -4,7 +4,7 @@ metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
 ---
 
-1. Xem toàn bộ ảnh
+#### 1. Xem toàn bộ ảnh
 
 **API**:
 
@@ -40,7 +40,7 @@ print(response.json())
 
 ```
 
-2. Tìm kiếm khuôn mặt
+#### 2. Tìm kiếm khuôn mặt
 
 **API**:
 
@@ -82,7 +82,7 @@ response = requests.post(
 print(response.json())
 ```
 
-3. Thêm ảnh
+#### 3. Thêm ảnh
 
 **API**:
 
@@ -126,7 +126,7 @@ response = requests.post(
 print(response.json())
 ```
 
-4. Cập nhật metadata
+#### 4. Cập nhật metadata
 
 **API**:
 
@@ -171,7 +171,7 @@ print(response.json())
 
 ```
 
-5. Xoá nhiều ảnh
+#### 5. Xoá nhiều ảnh
 
 **API**:
 
@@ -210,7 +210,7 @@ print(response.json())
 
 ```
 
-6. Thông tin trả về
+#### 6. Thông tin trả về
 
 Phản hồi sẽ là một JSON với định dạng sau:
 
