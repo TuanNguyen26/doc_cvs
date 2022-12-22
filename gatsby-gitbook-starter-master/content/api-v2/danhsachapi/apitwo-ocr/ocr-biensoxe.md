@@ -1,8 +1,8 @@
 ---
 title: 'Biển số xe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 3
-metaDescription: 'This is the api v1 for this page'
+id: 18
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin biển số xe với đầu vào url ảnh

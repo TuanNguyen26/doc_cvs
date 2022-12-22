@@ -1,8 +1,8 @@
 ---
 title: 'Giấy khai sinh'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 7
-metaDescription: 'This is the api v1 for this page'
+id: 23
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin giấy khai sinh với đầu vào url ảnh

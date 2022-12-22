@@ -1,8 +1,8 @@
 ---
 title: 'Bảng'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 1
-metaDescription: 'This is the api v1 for this page'
+id: 16
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin dạng bảng với đầu vào url ảnh hoặc pdf

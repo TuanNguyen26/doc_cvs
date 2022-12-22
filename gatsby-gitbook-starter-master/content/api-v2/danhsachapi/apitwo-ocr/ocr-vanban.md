@@ -1,8 +1,8 @@
 ---
 title: 'Văn bản'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 10
-metaDescription: 'This is the api v1 for this page'
+id: 26
+metaDescription: 'This is the api v21 for this page'
 ---
 
 #### 1. Trích xuất thông tin văn bản với đầu vào url ảnh hoặc pdf

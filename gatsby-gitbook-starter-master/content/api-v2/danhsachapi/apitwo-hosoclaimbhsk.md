@@ -1,8 +1,8 @@
 ---
 title: 'Hồ sơ claim bảo hiểm sức khỏe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-metaDescription: 'This is the api v1 for this page'
-id: 5
+metaDescription: 'This is the api v2 for this page'
+id: 9
 ---
 
 #### 1. Trích xuất thông tin Hồ sơ claim bảo hiểm sức khỏe với đầu vào url của ảnh hoặc pdf

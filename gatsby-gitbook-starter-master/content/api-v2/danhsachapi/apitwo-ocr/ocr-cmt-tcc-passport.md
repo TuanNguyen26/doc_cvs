@@ -1,8 +1,8 @@
 ---
 title: 'CMT/TCC/Passport'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 4
-metaDescription: 'This is the api v1 for this page'
+id: 19
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin hai mặt chứng minh thư thẻ căn cước với đầu vào url ảnh

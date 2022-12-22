@@ -1,8 +1,8 @@
 ---
 title: 'Đăng kí xe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 6
-metaDescription: 'This is the api v1 for this page'
+id: 21
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin hai mặt đăng ký xe với đầu vào url ảnh

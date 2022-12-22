@@ -35,30 +35,6 @@ Authorization: Basic ZGVtbzpwQDU1dzByZA==
 
 [![face matching](https://static.swimlanes.io/862fcd7dfc64aabe0d9d8b64676856dd.png)](https://swimlanes.io/d/umDCBbU-d)
 
-<!--
-### Flow 3: Detect Celeb
-
-[![detect celeb](https://static.swimlanes.io/935e86e95755cebbaa4cbbf47108bc82.png)](https://swimlanes.io/d/Hmr8bv6BN)
-
-
-### Flow 4: NSFW
-
-[![nsfw](https://static.swimlanes.io/22c021582eee12cf5b0e3c571998cfff.png)](https://swimlanes.io/d/M3acB38bC)
-
-### Flow 5: Smart Crop
-
-
-[![smart crop](https://static.swimlanes.io/84b3c4cba82880241117861a369569ce.png)](https://swimlanes.io/d/CTONsNbIq)
-
-### Flow 6: Smart Layout
-
-
-[![smart layout](https://static.swimlanes.io/f88d3af125769a2faf2ed270e3a485d3.png)](https://swimlanes.io/d/JsgaGV2e6)
-
-### Flow 7: Tagging
-
-[![tagging](https://static.swimlanes.io/ea9e9f8879ab48626a7caf8bc641e643.png)](https://swimlanes.io/d/UDuJCMwel) -->
-
 ### Flow 3: Face Search
 
 [![face search](https://static.swimlanes.io/9012d6bc5b996fb780c1c1abad6d75d6.png)](https://swimlanes.io/d/INlNJtSgY)

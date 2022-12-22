@@ -1,8 +1,8 @@
 ---
 title: 'Báo giá xe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 2
-metaDescription: 'This is the api v1 for this page'
+id: 17
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin Báo giá xe với đầu vào url ảnh

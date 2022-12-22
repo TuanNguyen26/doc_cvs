@@ -1,8 +1,8 @@
 ---
 title: 'Giấy chứng nhận quyền sử dụng đất'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-metaDescription: 'This is the api v1 for this page'
-id: 11
+metaDescription: 'This is the api v21 for this page'
+id: 6
 ---
 
 #### 1. Trích xuất thông tin Giấy chứng nhận quyền sử dụng đất với đầu vào url của ảnh hoặc pdf

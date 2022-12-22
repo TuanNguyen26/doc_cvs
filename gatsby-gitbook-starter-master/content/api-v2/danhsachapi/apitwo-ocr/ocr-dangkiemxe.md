@@ -1,8 +1,8 @@
 ---
 title: 'Đăng kiểm xe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
-id: 5
-metaDescription: 'This is the api v1 for this page'
+id: 20
+metaDescription: 'This is the api v2 for this page'
 ---
 
 #### 1. Trích xuất thông tin đăng kiểm xe với đầu vào url ảnh

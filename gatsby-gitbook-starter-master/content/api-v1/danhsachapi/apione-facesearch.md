@@ -2,7 +2,7 @@
 title: 'Face Search'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
-id: 2
+id: 3
 ---
 
 #### 1. Xem toàn bộ ảnh
