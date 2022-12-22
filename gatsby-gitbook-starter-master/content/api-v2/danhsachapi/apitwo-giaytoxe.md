@@ -2,7 +2,7 @@
 title: 'Giấy tờ xe'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
-id: 6
+id: 12
 ---
 
 #### 1. Trích xuất thông tin Giấy tờ xe với đầu vào url của ảnh hoặc pdf

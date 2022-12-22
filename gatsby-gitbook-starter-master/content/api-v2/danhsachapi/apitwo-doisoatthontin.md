@@ -2,7 +2,7 @@
 title: 'Đối soát thông tin'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
-id: 2
+id: 14
 ---
 
 ### Đối soát thông tin

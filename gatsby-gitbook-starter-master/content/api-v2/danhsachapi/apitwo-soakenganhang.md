@@ -2,7 +2,7 @@
 title: 'Sao kê ngân hàng'
 metaTitle: 'Tài liệu hướng dẫn tích hợp API Computer Vision VietNam'
 metaDescription: 'This is the api v1 for this page'
-id: 14
+id: 8
 ---
 
 #### 1. Trích xuất thông tin Sao kê ngân hàng với đầu vào url của ảnh hoặc pdf
